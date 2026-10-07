@@ -65,3 +65,4 @@ temp/
 *.tar
 *.tar.gz
 *.code-workspace
+pkg/
